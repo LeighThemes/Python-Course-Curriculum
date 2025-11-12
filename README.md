@@ -4,23 +4,26 @@ Created by Leigh Castro Mercado
 
 Course Overview
 
-This course introduces students to programming through Python and game development.
-Students will learn coding fundamentals, problem-solving, and creative design by building a
-series of interactive games, progressing from simple 2D projects to advanced
-physics-based games with 3D environments. Each project emphasizes design, debugging, and
-iteration, with independent coding activities reinforcing conceptual understanding.
+  This course introduces students to programming through Python and game development.
+  Students will learn coding fundamentals, problem-solving, and creative design by building a
+  series of interactive games, progressing from simple 2D projects to advanced
+  physics-based games with 3D environments. 
+  
+  Each project emphasizes design, debugging, and
+  iteration, with independent coding activities reinforcing conceptual understanding.
 
 Course Structure
 
-The course is divided into two major parts: Class Coding Lessons and Coding Activities. Class
-lessons are project-based, spanning approximately three days per module.
+  The course is divided into two major parts: Class Coding Lessons and Coding Activities. 
+  Class lessons are project-based, spanning approximately three days per module.
+  Each module focuses on designing and coding a complete game from scratch while
+  emphasizing reusable logic and programming best practices.
+  
+  Coding activities serve as shorter, focused exercises on specific Python concepts.
 
   Modules Overview:
 
   Part 1: Class Coding Lessons
-
-  Each module focuses on designing and coding a complete game from scratch while
-  emphasizing reusable logic and programming best practices.
   
     Module 1: Flappy Birds — Learn Python and Pygame basics by building a functional Flappy
     Bird clone. Focus areas include variables, loops, gravity, and event handling.
@@ -57,8 +60,6 @@ lessons are project-based, spanning approximately three days per module.
   
   Part 2: Coding Activities
 
-  Coding activities serve as shorter, focused exercises on specific Python concepts.
-  
     Inheritance Practice: Learn about Python’s class inheritance structure through practical
     examples.
     
